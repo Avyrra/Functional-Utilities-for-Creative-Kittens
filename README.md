@@ -8,7 +8,7 @@ My personal quickshell scripts that I use for my hyprland rice.
 
 # App Launcher
 Works a lot like wofi, but includes some additional utilities.
-Fancy animations. URL support. Web Search (current defaults to google). 
+Fancy animations. URL support. Web Search (currently defaults to google). 
 URLs and Web Searches are saved for autocompletion. Results disappear after 30 days unless very commonly used.
 Most used results are listed first.
 
